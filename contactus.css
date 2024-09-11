@@ -1,0 +1,15 @@
+form{
+    border: solid 1px;
+    width: 700px;
+    margin-left: 350px;
+    background-color: rgba(99, 241, 241, 0.811);
+    padding-left: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(95, 95, 244);
+}
+label{
+    color: rgba(159, 80, 233, 0.852);
+}
